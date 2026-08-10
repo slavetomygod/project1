@@ -1,0 +1,20 @@
+# Local Environment Configuration Vault (CRITICAL)
+.env
+
+# Python Runtime Cache and Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env/
+.venv/
+
+# Operating System Hidden Configuration Junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
