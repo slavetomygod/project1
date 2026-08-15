@@ -1,4 +1,4 @@
-# project1 = Appointment based app for hospital dogar kaala
+# project1 = Appointment based app for hospital.
 
 #  -----> Description:
 #                    An appp made for appointments , where you can book appointments on your own without wastage of time.
